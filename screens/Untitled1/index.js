@@ -36,8 +36,8 @@ const _styles = StyleSheet.create({
     height: 40
   },
   fwWTTanA: {
-    left: 154.14927829866733,
-    top: 370.5239533417508,
+    left: 154,
+    top: 370,
     position: "absolute",
     width: 50,
     height: 25,
